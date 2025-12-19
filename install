@@ -1,0 +1,15 @@
+#!/bin/sh
+# Void Linux Bootstrap - shrek68
+set -e
+
+SCRIPT_URL="https://gitlab.com/shrek68/dotfiles/-/raw/master/scripts/setupScript/setupScript.sh"
+
+echo "[+] Bootstrapping system..."
+sudo xbps-install -y wget curl
+
+echo "[+] Downloading main setup script..."
+wget -q "$SCRIPT_URL" -O setupScript.sh
+
+echo "[+] Launching setup..."
+chmod +x setupScript.sh
+./setupScript.sh
