@@ -1,5 +1,6 @@
 #!/bin/sh
-# Void Linux Bootstrap - shrek68
+
+#void linux setup script 
 set -e
 
 SCRIPT_URL="https://gitlab.com/shrek68/dotfiles/-/raw/master/scripts/setupScript/setupScript.sh"
