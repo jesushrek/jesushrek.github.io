@@ -15,7 +15,6 @@ These are some pieces of software I have written for myself.
 
 - [Nepali Date Convertor](https://github.com/jesushrek/nepali-date-convertor)
 - [Boids Simulation](https://github.com/jesushrek/boids)
-- And many more to come
 
 ### Linux setup
 
