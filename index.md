@@ -25,4 +25,4 @@ My half broken or (half good) linux setup that I hacked together for my personal
 
 ### About
 
-Experimenting with coding, and many other things. making small strides everyday, being able to do something I never could.
+Experimenting with coding, and learning along the way.
